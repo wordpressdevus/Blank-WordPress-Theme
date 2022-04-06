@@ -2,6 +2,7 @@
 
 
 **Extremely** light and blank WordPress Theme. Doesnt even have CSS just ignore it 😂
+Theme For Testing..
 
 
 - index.php
