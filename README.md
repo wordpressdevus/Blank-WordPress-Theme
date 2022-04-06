@@ -9,7 +9,8 @@ Extremely light and blank WordPress Theme
 
 > There is lots of optimization and cleaning on functions.php :)
 > 
-> I always remove emojis and hide version. Hiding version is small but effective for security.
+> I always remove emojis and hide version. 
+> Hiding WordPress version is small but effective for security.
 
 ```
 remove_action( 'wp_head', 'rest_output_link_wp_head', 10 );
