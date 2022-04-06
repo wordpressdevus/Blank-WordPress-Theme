@@ -19,11 +19,11 @@ Features
 
 
 
-> There is lots of optimization and cleaning on functions.php :)
+> There is lots of optimization and cleaning on functions.php 
 > 
 > I always remove emojis and hide version. 
 > 
-> Hiding WordPress version is small but effective for security.
+> Hiding WordPress version is small but effective for security. Do IT !
 
 ```
 remove_action( 'wp_head', 'rest_output_link_wp_head', 10 );
