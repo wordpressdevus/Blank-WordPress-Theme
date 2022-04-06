@@ -1,7 +1,8 @@
 # Blank Starter WordPress Theme
 
 
-**Extremely** light and blank WordPress Theme
+**Extremely** light and blank WordPress Theme. Doesnt even have CSS just ignore it 😂
+
 
 - index.php
 - functions.php
