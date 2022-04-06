@@ -1,8 +1,9 @@
 # Blank Starter WordPress Theme
 
 
-**Extremely** light and blank WordPress Theme. Doesnt even have CSS just ignore it 😂
-Theme For Testing..
+**Extremely** light and blank WordPress Theme. Doesnt even have CSS just ignore it
+
+This is just for Testing..
 
 
 - index.php
