@@ -7,6 +7,12 @@ Blank WordPress Theme
 - functions.php
 - style.css
 
+Features
+- Menu
+- Posts
+�😊
+
+
 If you dont know how is this theme is possible you need to learn [WordPress Template Hierarchy](https://developer.wordpress.org/files/2014/10/Screenshot-2019-01-23-00.20.04.png)
 
 > There is lots of optimization and cleaning on functions.php :)
