@@ -1,7 +1,7 @@
 # Blank-WordPress-Theme
 Blank WordPress Theme
 
-Extremely light and blank WordPress Theme
+**Extremely** light and blank WordPress Theme
 
 - index.php
 - functions.php
