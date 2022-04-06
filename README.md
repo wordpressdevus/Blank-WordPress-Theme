@@ -1,5 +1,5 @@
-# Blank-WordPress-Theme
-Blank WordPress Theme
+# Blank Starter WordPress Theme
+
 
 **Extremely** light and blank WordPress Theme
 
